@@ -1,0 +1,7 @@
+<view>
+  <view class="bg">
+  <image mode="widthFix" src="https://s1.ax1x.com/2022/11/10/zpoyEq.png"></image>
+  <view class="bg-link1" bindtap="zhongqiu_link"></view>
+  <view class="bg-link2" bindtap="create_link"></view>
+  </view>
+</view>

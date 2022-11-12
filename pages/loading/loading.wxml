@@ -1,0 +1,7 @@
+<!--pages/loading/loading.wxml-->
+<view>
+  <view class="bg">
+  <image mode="widthFix" src="https://s1.ax1x.com/2022/11/08/xz36R1.png"></image>
+  <view class="bg-link" bindtap="choice_link"></view>
+  </view>
+</view>
